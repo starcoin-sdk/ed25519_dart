@@ -10,8 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  pointycastle: ^1.0.1
-  hex: ^0.1.2
+  pointycastle: ^3.6.0
+  hex: ^0.2.0
 
 dev_dependencies:
   flutter_test:

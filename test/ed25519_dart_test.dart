@@ -1,5 +1,5 @@
 import 'dart:typed_data' show Uint8List;
-import 'package:ed25519_dart/ed25519_dart.dart';
+import '../lib/ed25519_dart.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:hex/hex.dart';
 
